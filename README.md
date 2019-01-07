@@ -1,1 +1,2 @@
-"# ladder-test-bot" 
+# ladder-test-bot
+Test bot
