@@ -1,0 +1,11 @@
+{
+    "Bots": {
+        "NodeTestBot1": {
+            "Race": "Protoss",
+            "Type": "NodeJS",
+            "RootPath": "./",
+            "FileName": "bundle.js",
+            "Debug": false
+        }
+    }
+}
